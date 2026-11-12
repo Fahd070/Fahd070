@@ -2,7 +2,7 @@
 
 # Fahd Al-Katheri
 
-**Developer · Technology Educator · Founder of Fahd Ybrmj**
+**Developer · Technology Educator · Founder of fahdybrmj channel**
 
 I build software for the web and teach others to do the same, aiming to make programming clear, practical and approachable.
 
